@@ -56,5 +56,3 @@ This project was created to practise Java fundamentals, including variables, use
 Author
 
 Amazingayo
-
-GitHub Profile
